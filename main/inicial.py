@@ -5,7 +5,7 @@ import time
 pyautogui.press("win")
 pyautogui.write("osu")
 pyautogui.press("enter")
-time.sleep(10)
+time.sleep(15)
 
 # local da tela em que está o botão de iniciar:
 pyautogui.click(x=915, y=852)
